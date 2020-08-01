@@ -19,3 +19,9 @@ Wir sind hier heute hier...blabla
 | Wurst | 22.30 |
 | Apfel | 5.00 |
 
+# Feuerwerk
+
+![Feuerwerk]({{ site.baseurl }}/fireworks-1346780_1920.jpg)
+
+
+![Lampion](https://cdn.pixabay.com/photo/2017/08/27/16/48/switzerland-2686759_1280.jpg)
